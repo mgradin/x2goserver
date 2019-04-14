@@ -1,0 +1,5 @@
+---
+- name: Install x2goserver
+  dnf:
+    name: x2goserver
+    state: installed

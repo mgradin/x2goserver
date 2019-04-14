@@ -1,0 +1,4 @@
+---
+# tasks file for x2goserver
+- import_tasks: install.yml
+  become: true
